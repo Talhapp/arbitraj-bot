@@ -1,0 +1,13 @@
+BINANCE_API_KEY = "BINANCE API KEY"
+BINANCE_SECRET = "BINANCE SECRET"
+
+KUCOIN_API_KEY = "KUCOİN API KEY"
+KUCOIN_SECRET = "KUCOİN SECRET"
+KUCOIN_PASSWORD = "KUCOİN PASSWORD"
+
+SYMBOL = "BTC/USDT"
+BINANCE_FEE = 0.001  # %0.1 komisyon
+KUCOIN_FEE = 0.001   # %0.1 komisyon
+TRANSFER_FEE = 1.0   # Örneğin USDT (TRC20) çekim ücreti sabit 1 USDT
+TRADE_AMOUNT = 100000   # İşlem yapılacak bütçe (USDT)
+THRESHOLD = 0.5      # Minimum net kar eşiği (USDT bazında)
